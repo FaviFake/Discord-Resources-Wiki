@@ -33,7 +33,7 @@ description: Discord programs like Moderation, Partner, HSE and Verification.
 ## **Student Hubs**
 
 > **Description:** A place that makes it easy to meet classmates from your school, discover their communities on Discord, and share your own servers for classmates to join.   <br/>
-**Link:** [Student Hubs](https://dis.gd/studenthubs)
+**Link:** [Student Hubs](https://support.discord.com/hc/en-us/articles/4406046651927-Discord-Student-Hubs-FAQ)
 
 ## **Discord Admin Community**
 
